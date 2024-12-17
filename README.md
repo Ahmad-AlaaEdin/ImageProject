@@ -1,7 +1,6 @@
 # ImageProject
 
-Clone the Repository
-Use git to clone your repository:
+
 
 bash
 Copy code
