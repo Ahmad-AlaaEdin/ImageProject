@@ -12,7 +12,7 @@ Copy code
 `cd ImageProject`
 
 # Reproducing the Experiments.
-
+### Adjust the learning rates of the optimizers according to the values specified in the image
 ```
 adam = tf.keras.optimizers.Adam(learning_rate=0.01)
 sgd = tf.keras.optimizers.SGD(learning_rate=0.001)
@@ -23,5 +23,5 @@ model.compile(optimizer="adam",
 BATCH_SIZE = 64
 ```
 
-### Adjust the learning rates of the optimizers according to the values specified in the image
+
 ![](data.png)
