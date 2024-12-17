@@ -6,7 +6,7 @@ Use git to clone your repository:
 bash
 Copy code
 # Clone the ImageProject repository
-`git clone <repository_url>`
+`git clone <https://github.com/Ahmad-AlaaEdin/ImageProject.git>`
 
 # Navigate to the project folder
 `cd ImageProject`
@@ -24,4 +24,4 @@ BATCH_SIZE = 64
 ```
 
 ### Adjust the learning rates of the optimizers according to the values specified in the image
-![](table.png)
+![](data.png)
